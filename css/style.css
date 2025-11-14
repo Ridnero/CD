@@ -1,0 +1,32 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.right{
+    width: 17%;
+    height: 150px;
+    background-color: blue;
+    border-radius: 2%;
+    display: block;
+}
+
+.up{
+    width: 83%;
+    height: 75px;
+    background-color: deepskyblue;
+    margin-left: 17%;
+    margin-top: -150px;
+}
+
+.do{
+    width: 83%;
+    height: 75px;
+    background-color: black;
+    margin-left: 17%;
+}
+
+.logo{
+    margin-left: 60px;
+    margin-top: 50px;
+}
